@@ -1,0 +1,16 @@
+com\juaracoding\test\ByLinkText.class
+com\juaracoding\test\SelectedTest.class
+com\juaracoding\test\listeners\HookSSS.class
+com\juaracoding\test\ScreenshotHelper.class
+com\juaracoding\test\RadioTest.class
+com\juaracoding\test\authentications\SignInWithoutPasswordTest.class
+com\juaracoding\test\ActionTest.class
+com\juaracoding\test\authentications\SignInWithoutUsernameTest.class
+com\juaracoding\test\CheckboxTest.class
+com\juaracoding\test\listeners\Hook.class
+com\juaracoding\test\inventories\InventoryListTest.class
+com\juaracoding\test\authentications\SignInTest.class
+com\juaracoding\test\QuizDragDropTest.class
+com\juaracoding\test\SignInTest.class
+com\juaracoding\test\BaseTest.class
+com\juaracoding\test\Hook.class
