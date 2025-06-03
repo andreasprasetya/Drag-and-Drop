@@ -97,7 +97,7 @@ public class QuizDragDropTest extends BaseTest {
         };
 
         for (int row = 0; row < keyElements.length; row++) {
-            dragAndDrop(keyElements[row][0], keyElements[row][1]);
+            dropTest(keyElements[row][0], keyElements[row][1]);
             Thread.sleep(2000);
         }
     }
